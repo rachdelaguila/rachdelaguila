@@ -24,7 +24,7 @@ I use user discovery, pilot design, pricing validation, marketplace mechanics, a
 
 ### [AlmaOS — AI Chief of Staff Prototype](projects/almaos.md)
 
-Building a privacy-first AI Chief of Staff prototype for context-aware wellness planning across health and calendar workflows. The private implementation includes Cloudflare Workers, data/API integrations, semantic retrieval, and validation of a working planning prototype. [Read the public project case study](projects/almaos.md); personal data and source remain private.
+Building a privacy-first AI Chief of Staff prototype for context-aware wellness planning across health and calendar workflows. The private implementation includes Cloudflare Workers, data/API integrations, semantic retrieval, and validation of a working planning prototype. **[View the early AlmaOS web preview](https://rach-del-aguila-wellness-sync.vercel.app/)** · [Read the public project case study](projects/almaos.md). The Vercel preview is not a synthetic-data demo of the latest private build.
 
 ### HBA President Operating System
 
@@ -73,4 +73,5 @@ My trading technology work includes workflows supporting 3,000 daily derivatives
 
 - [LinkedIn](https://www.linkedin.com/in/rachdelaguila/)
 - [Public portfolio website code](https://github.com/rachdelaguila/rachdelaguila.github.io)
+- [AlmaOS web preview](https://rach-del-aguila-wellness-sync.vercel.app/)
 - [AlmaOS case study](projects/almaos.md)
