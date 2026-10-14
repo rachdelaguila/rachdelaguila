@@ -25,8 +25,12 @@ A local prototype has been demonstrated and its core planning flow has been chec
 - **Testable behavior:** Separate synthetic demo examples from private data and distinguish prototype validation from production performance.
 - **Reliable data flow:** Use normalized source records and a derived retrieval index rather than treating vector search as the source of truth.
 
+## Live web preview
+
+[Open the AlmaOS prototype preview](https://rach-del-aguila-wellness-sync.vercel.app/). This is an early, personal-use Vercel interface; it may not reflect the latest private implementation or use wholly synthetic data. Do not treat it as a validated production deployment or a public demonstration of autonomous LLM capabilities.
+
 ## What is public
 
-This is a **sanitized project case study**, not the application source code or a publicly hosted live demo. The main repository remains private because it contains personal-context material. Public-facing examples should use fictional fixtures only.
+This is a **sanitized project case study**, not the application source code. The source repository remains private because it contains personal-context material. New public examples and demos should use fictional fixtures only.
 
 [Back to GitHub profile](../README.md) | [Portfolio website source](https://github.com/rachdelaguila/rachdelaguila.github.io)
