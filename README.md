@@ -22,11 +22,9 @@ I use user discovery, pilot design, pricing validation, marketplace mechanics, a
 
 ## Selected Work
 
-### AlmaOS
+### [AlmaOS — AI Chief of Staff Prototype](projects/almaos.md)
 
-AlmaOS is a privacy-first AI wellness operating system that turns health and calendar signals into recovery-aware daily planning. The private build includes a Cloudflare Worker, Workers AI embeddings, Vectorize retrieval, scheduled synchronization patterns, typed API work in open PRs, authentication hardening in open PRs, and testing/CI work in open PRs.
-
-Public materials for AlmaOS use only synthetic fixtures and sanitized architecture notes.
+Building a privacy-first AI Chief of Staff prototype for context-aware wellness planning across health and calendar workflows. The private implementation includes Cloudflare Workers, data/API integrations, semantic retrieval, and validation of a working planning prototype. [Read the public project case study](projects/almaos.md); personal data and source remain private.
 
 ### HBA President Operating System
 
@@ -74,3 +72,5 @@ My trading technology work includes workflows supporting 3,000 daily derivatives
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/rachdelaguila/)
+- [Public portfolio website code](https://github.com/rachdelaguila/rachdelaguila.github.io)
+- [AlmaOS case study](projects/almaos.md)
